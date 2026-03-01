@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Humimp | Consultora Estratégica en Psicología Organizacional</title>
+<link rel="stylesheet" href="styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="hero">
+  <div class="container">
+    <h1>Humimp</h1>
+    <p class="subtitle">
+      Consultora estratégica en psicología organizacional aplicada.
+    </p>
+    <p class="description">
+      Fortalecemos la dimensión humana de las organizaciones para impulsar
+      sostenibilidad, liderazgo y desempeño institucional.
+    </p>
+    <a href="https://wa.me/51955072774" class="btn-primary" target="_blank">
+      Solicitar Información
+    </a>
+  </div>
+</header>
+
+<section class="about">
+  <div class="container">
+    <h2>Quiénes Somos</h2>
+    <p>
+      Humimp es una firma especializada en psicología organizacional aplicada,
+      orientada al fortalecimiento estratégico del capital humano y la sostenibilidad institucional.
+      Integramos evaluación técnica, diagnóstico estructurado y diseño de intervenciones
+      personalizadas para organizaciones públicas y privadas.
+    </p>
+  </div>
+</section>
+
+<section class="approach">
+  <div class="container">
+    <h2>Enfoque Estratégico</h2>
+    <p>
+      El desempeño organizacional depende de la calidad del comportamiento humano que
+      sostiene sus procesos. Intervenimos desde una perspectiva técnica y estructurada,
+      fortaleciendo liderazgo, cultura, bienestar psicológico y capacidad de adaptación.
+    </p>
+  </div>
+</section>
+
+<section class="services">
+  <div class="container">
+    <h2>Líneas Estratégicas</h2>
+    <div class="service-grid">
+
+      <div class="card">
+        <h3>Consultoría en Psicología Organizacional</h3>
+        <p>Diagnóstico organizacional, evaluación de liderazgo, gestión estratégica del talento y análisis psicosocial.</p>
+      </div>
+
+      <div class="card">
+        <h3>Bienestar Psicológico y Salud Organizacional</h3>
+        <p>Programas de bienestar integral, prevención de riesgos psicosociales y fortalecimiento emocional colectivo.</p>
+      </div>
+
+      <div class="card">
+        <h3>Evaluación e Instrumentación Psicológica</h3>
+        <p>Evaluaciones técnicas especializadas y desarrollo de instrumentos organizacionales.</p>
+      </div>
+
+      <div class="card">
+        <h3>Desarrollo Organizacional y Cultura Corporativa</h3>
+        <p>Procesos de transformación cultural, fortalecimiento institucional y gestión del cambio.</p>
+      </div>
+
+      <div class="card">
+        <h3>Psicología Aplicada a Entornos Críticos</h3>
+        <p>Preparación organizacional, cultura preventiva y fortalecimiento institucional ante escenarios complejos.</p>
+      </div>
+
+      <div class="card">
+        <h3>Programas y Capacitación Organizacional</h3>
+        <p>Diseño e implementación de programas institucionales, talleres especializados y formación ejecutiva.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="model">
+  <div class="container">
+    <h2>Modelo de Intervención</h2>
+    <ul>
+      <li>1. Diagnóstico estructurado</li>
+      <li>2. Diseño estratégico de intervención</li>
+      <li>3. Implementación planificada</li>
+      <li>4. Evaluación de impacto</li>
+      <li>5. Informe ejecutivo final</li>
+    </ul>
+  </div>
+</section>
+
+<section class="sectors">
+  <div class="container">
+    <h2>Sectores de Atención</h2>
+    <p>
+      Sector público, sector privado, industria, educación, servicios y organizaciones institucionales.
+    </p>
+  </div>
+</section>
+
+<section class="contact">
+  <div class="container">
+    <h2>Contacto</h2>
+    <p>Email: <a href="mailto:contacto@humimp.com">contacto@humimp.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/51955072774">955 072 774</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 Humimp. Todos los derechos reservados.</p>
+  </div>
+</footer>
+
+</body>
+</html>
